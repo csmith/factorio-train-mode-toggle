@@ -4,6 +4,6 @@
   "factorio_version": "0.15",
   "title": "Train mode toggle",
   "author": "csmith",
-  "homepage": "",
-  "description": "Adds a hotkey to toggle automatic mode on or off for the player's current train.",
+  "homepage": "https://github.com/csmith/factorio-train-mode-toggle",
+  "description": "Adds a hotkey to toggle automatic mode on or off for the player's current train."
 } 
