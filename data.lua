@@ -7,3 +7,4 @@ if not data.raw["custom-input"] or not data.raw["custom-input"]["toggle-train-co
         }
     })
 end
+
